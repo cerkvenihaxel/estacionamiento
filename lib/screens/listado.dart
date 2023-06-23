@@ -5,6 +5,8 @@ import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
 import 'dart:typed_data';
 
+//Falta agregar el listado de los vehículos
+
 class ListadoPage extends StatelessWidget {
   final String patente;
   final TimeOfDay horaIngreso;
